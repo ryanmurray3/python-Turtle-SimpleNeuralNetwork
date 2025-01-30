@@ -124,6 +124,7 @@ turtle_one()
 turtle_two()
 turtle_three()
 turtle_four()
+
 #layer 2
 turtle_five()
 turtle.penup()
