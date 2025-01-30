@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/https:/github.com/ryanmurray3/python-Turtle-SimpleNeuralNetwork.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-Turtle-SimpleNeuralNetwork" vcs="Git" />
   </component>
 </project>
