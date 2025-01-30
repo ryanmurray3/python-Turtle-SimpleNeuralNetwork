@@ -132,5 +132,4 @@ turtle.goto(-300, 300)
 turtle.pendown()
 turtle.write("Simple Neural Network", move=True, align="left", font=("Arial", 32, "bold"))
 
-
 turtle.done()
